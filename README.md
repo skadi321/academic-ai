@@ -1,35 +1,37 @@
 # System for predicting academic performance
 
-Building AI course project
+Comparison of Machine Learning Models
 
 ## Summary
 
-As a student I have met a wide variety of colleagues with different backgrounds and with varying degrees of academic success. This project's main goal is to use different AI methods to predict how academically successful will someone be. This might provide some insight into what actually matters when it comes to academic success.
+As a student I have met a wide variety of colleagues with different backgrounds and with varying degrees of academic success. This project's main goal is to use different Machine Learning models to predict how academically successful will someone be. This might provide some insight into what actually matters when it comes to academic success.
 
 
 ## Background
 
-I have never quite understood why some people are good at school and others are not. I am hoping that this project will help me gain a better understanding of this problem. I am also hoping that this project will enable everyone to get a high-quality prediction of their academic success.
+I have not got the chance to learn about Machine Learning as much as I wanted in college, so I choose a topic about Machine learning as my undergraduate thesis. This way I will gain both theoretical and practiacal knowledge about Machine Learning.
 
 
 ## How is it used?
 
-The project can be used to get personal estimation of academic success, but its main users should be college recruiters, career advisors and simillar roles that could benefit from the insights into someone's academic past and future. A basic use case would be entering current personal and academic information and getting a prediction about what how well will a person perform academically (degree of education, field of study, GPA...).
+The project can be used to get personal estimation of academic success, specifically time it will take to finnish college. A basic use case would be entering current personal and academic information and getting a prediction regarding time it will take to finnish college.
 
 
 
 
 ## Data sources and AI methods
-I will mainly use data from The Croatian Bureau of Statistics and some personally gathered data if needed. I will probably need more AI methods since this is both a classification and a prediction problem.
+I will use data obtained by scientist at Polytechnic Institute of Portalegre
 
 ## Challenges
 
-The main challenge is to create a model that is broad enough so that anyone in the nation can use it, but specific enough so that it is useful.
+The main challenge is to create a model that is broad enough so that anyone can use it, but specific enough so that it is useful.
 It is important that users understand that the model will generate a prediction and that there is virtually no guarantee that it will be correct.
 
 ## What next?
 
-It would be greatly appreciated to get some assistance in increasing the volume and quality of data gathered.
-
+Using borader dataset and optimizing models
 
 ## Acknowledgments
+
+Polytechnic Institute of Portalegre - Dataset
+Izv. prof. dr. sc. Oreški - Mentor
